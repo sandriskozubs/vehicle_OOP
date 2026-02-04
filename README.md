@@ -10,10 +10,12 @@ This isn't any significant project. These files are basically 2 methods in a cla
 
 # Where can I learn Object-Oriented PHP?:elephant:
  - **For people who are new to PHP**:
+
     <https://www.w3schools.com/php/php_oop_what_is.asp>
 
 # An example of what the code does
 This is an example of what the code does
+
 ![Reference Image](screenshots/image.png)
 
 ```PHP
