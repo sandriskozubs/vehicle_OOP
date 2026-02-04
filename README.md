@@ -1,14 +1,14 @@
-# This is a PHP OOP test:exclamation:
+# This is a PHP OOP test :exclamation:
 
 This isn't any significant project. These files are basically 2 methods in a class. Do as you wish with this information.
 
-# How do I use this project?:cd:
+# How do I use this project? :cd:
 
  - You **pass the parameters to the constructor method** when you are creating a new object.
 
  - *And thats it.* You can customize the files to your own liking.
 
-# Where can I learn Object-Oriented PHP?:elephant:
+# Where can I learn Object-Oriented PHP? :elephant:
  - **For people who are new to PHP**:
 
     <https://www.w3schools.com/php/php_oop_what_is.asp>
